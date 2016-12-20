@@ -1,4 +1,4 @@
-# A demo shopping application for the following
+# A demo application for the following
 ```
 Spring Rest Docs
 Micro-Services with Circuit Breaker and Logging
