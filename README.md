@@ -1,11 +1,9 @@
-# A demo application for the following
-...
-
+# A demo shopping application for the following
+```
 Spring Rest Docs
-Micro-Services - Circuit Breaker and Logging
-Flux based UI with React as the view
-
-...
+Micro-Services with Circuit Breaker and Logging
+Flux architecture with React as the view on the client side
+```
 
 ## Prerequisites
 ```
@@ -16,7 +14,7 @@ Eclipse with Groovy 2.4 plugin.
 
 ## Instructions to setup
 ```
-git clone https://github.com/kingomarigold/hello_microservices.git
+git clone https://github.com/kingomarigold/Spring_Rest_Docs_Demo.git
 gradle cleanEclipse eclipse
 ```
 ## Instructions to run
